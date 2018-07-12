@@ -1,0 +1,27 @@
+.form{
+  text-align: center;
+}
+
+.form input{
+  display: block;
+margin: 30px auto;
+}
+.container{
+  width: 100%;
+
+}
+.container div {
+  border: 1px solid #eee;
+  text-align: center;
+  margin: 0 auto;
+}
+.container div img{
+  width: 80%;
+  display:block;
+  margin: 10px auto;
+
+
+}
+.tweetDiv{
+width:90%
+}
